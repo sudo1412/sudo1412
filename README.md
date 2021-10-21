@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudo1412
 - 👀 I’m interested in Pentesting
-- 🌱 I’m currently learning how to better coder
+- 🌱 I’m currently learning how to be a better coder
 - 💞️ I’m looking for a job relation to pentest
 - 📫 How to reach me dhdong.1412@gmail.com
 
